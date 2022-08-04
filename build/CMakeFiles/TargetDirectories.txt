@@ -1,0 +1,3 @@
+/home/void/Documents/CODES/TheProject/build/CMakeFiles/exe.dir
+/home/void/Documents/CODES/TheProject/build/CMakeFiles/edit_cache.dir
+/home/void/Documents/CODES/TheProject/build/CMakeFiles/rebuild_cache.dir

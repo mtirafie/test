@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exe.dir/src/main.cpp.o CMakeFiles/exe.dir/src/tile.cpp.o CMakeFiles/exe.dir/src/map.cpp.o CMakeFiles/exe.dir/src/wall.cpp.o CMakeFiles/exe.dir/src/game.cpp.o CMakeFiles/exe.dir/src/pacman.cpp.o CMakeFiles/exe.dir/src/ghost.cpp.o -o exe  -lsfml-graphics -lsfml-window -lsfml-audio -lsfml-system 
